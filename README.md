@@ -136,15 +136,6 @@ I architect hybrid systems with Kubernetes, Terraform, and CI/CD that hold **99.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahchaudary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahchaudary&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ### 📝 A note on this profile
 
 Most of my production work lives under client and employer NDAs on private GitLab and self-hosted Git instances across multiple environments, so this contribution graph undersells my day-to-day output. Happy to walk through architecture decisions and code samples in an interview.
